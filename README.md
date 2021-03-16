@@ -1,8 +1,7 @@
-### Hi there 👋
+### Here Is What I'm Working On 👋
 
 
-
-Here are some ideas to get you started:
+Here are some ideas to get you s
 
 - 🔭 I’m currently working on ...Web Developement
 - 🌱 I’m currently learning ...Django
