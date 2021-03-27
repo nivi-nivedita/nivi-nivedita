@@ -17,7 +17,6 @@ Here are some ideas to get you s
 <h1 align="center">Hi 👋, I'm Nivedita</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 
-- 🤝 I’m looking for an Intenship  **front and backend developement**
 
 
 
