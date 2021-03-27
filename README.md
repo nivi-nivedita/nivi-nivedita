@@ -11,6 +11,7 @@ Here are some ideas to get you s
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...I'm Half Finnish
+- ![](https://komarev.com/ghpvc/?username=nivi-nivedita&color=blueviolet)
 
 
 <h1 align="center">Hi 👋, I'm Nivedita</h1>
